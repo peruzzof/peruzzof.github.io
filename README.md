@@ -1,6 +1,6 @@
 ## About me
 
-Eventually I will add more information here...
+Eventually I will add more information here but, in the meanwhile I suggest you to take a look at my LinkedIn (the only place that I post publicly).
 
 [![Linkedin Badge](https://img.shields.io/badge/-peruzzo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peruzzo/)
 [![GitHub Badge](https://img.shields.io/badge/-peruzzof-100000?style=flat&logo=github&logoColor=white)](https://github.com/peruzzof)
