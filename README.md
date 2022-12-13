@@ -1,3 +1,5 @@
-# My own website
+# Peruzzo.net
 
-This is a personal website for Fabio Peruzzo Barbosa
+## About me
+
+Currently I am a DevOps Consultant, but I had too many hats in the past :)
