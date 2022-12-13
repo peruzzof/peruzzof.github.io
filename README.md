@@ -2,8 +2,9 @@
 
 Eventually I will add more information here...
 
-[![Linkedin Badge](https://img.shields.io/badge/-peruzzo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peruzzo/)](https://www.linkedin.com/in/peruzzo/)
-[![GitHub Badge](https://img.shields.io/badge/-peruzzof-c14438?style=flat&logo=GitHub&logoColor=white&link=https://github.com/peruzzof)](https://github.com/peruzzof)
-[![Website Badge](https://img.shields.io/badge/-peruzzo.net-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://peruzzo.net)](https://peruzzo.net)
-[![Twitter Badge](https://img.shields.io/badge/-@peruzzof-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/peruzzof)](https://twitter.com/peruzzof)
-[![Gmail Badge](https://img.shields.io/badge/-peruzzo-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peruzzo@gmail.com)](mailto:peruzzo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-peruzzo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peruzzo/)
+[![GitHub Badge](https://img.shields.io/badge/-peruzzof-100000?style=flat&logo=github&logoColor=white)](https://github.com/peruzzof)
+[![Website Badge](https://img.shields.io/badge/-peruzzo.net-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://peruzzo.net)
+[![Twitter Badge](https://img.shields.io/badge/-@peruzzof-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/peruzzof)
+[![Gmail Badge](https://img.shields.io/badge/-peruzzo-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:peruzzo@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-peruzzo-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/peruzzo)
